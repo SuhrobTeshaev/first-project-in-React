@@ -1,0 +1,19 @@
+.bar {
+    grid-area: b;
+    background-color: gray;
+   
+}
+
+.bar ul {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    list-style: none;
+}
+
+
+.bar ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}

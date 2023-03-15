@@ -1,0 +1,7 @@
+.dialog {
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+    padding: 40px;
+}
